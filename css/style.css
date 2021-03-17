@@ -11,6 +11,12 @@
 *	Edit this section
 *
 * ======================================================= */
+
+.list-inline {
+    padding-left: 0;
+    list-style: none;
+    margin-left: -5px;
+
 body {
   font-family: "Quicksand", Arial, sans-serif;
   font-weight: 400;
