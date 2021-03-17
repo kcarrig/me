@@ -12,6 +12,10 @@
 *
 * ======================================================= */
 
+.services:hover {
+  opacity: 0.8;
+}
+
 .social-link {
     width: 30px;
     height: 30px;
