@@ -197,7 +197,7 @@ figure {
         #colorlib-aside #colorlib-main-menu ul {
           margin: 0 0 2em 0; } }
       #colorlib-aside #colorlib-main-menu ul li {
-        color: #fff;
+        color: #f5f9e9;
         margin: 0 0 10px 0;
         padding: 0;
         list-style: none;
@@ -206,7 +206,7 @@ figure {
         text-transform: uppercase;
         letter-spacing: 1px; }
         #colorlib-aside #colorlib-main-menu ul li a {
-          color: #fff;
+          color: #f5f9e9;
           text-decoration: none;
           position: relative;
           padding: 10px 0;
