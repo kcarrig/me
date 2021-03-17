@@ -721,23 +721,23 @@ font-family: "Montserrat", Georgia, serif;}
   -ms-border-radius: 50%;
   border-radius: 50%;
   text-align: center;
-  -moz-box-shadow: 0 0 0 5px #f2f3f7;
-  -webkit-box-shadow: 0 0 0 5px #f2f3f7;
+  -moz-box-shadow: 0 0 0 2px #2c3e50;
+  -webkit-box-shadow: 0 0 0 2px #2c3e50;
   box-shadow: 0 0 0 2px #2c3e50;
   line-height: 40px;
   float: left; }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon i {
-    color: #2c3e50; }
+    color: None; }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-2 {
-    background: #2c3e50; }
+    background: None; }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-3 {
-    background: #2c3e50; }
+    background: None; }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-4 {
-    background: #2c3e50; }
+    background: None; }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-5 {
-    background: #2c3e50; }
+    background: None; }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-none {
-    background: #2c3e50;
+    background: None;
     width: 20px;
     height: 20px;
     margin-left: 10px; }
