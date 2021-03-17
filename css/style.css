@@ -1439,8 +1439,7 @@ align-items: stretch;}
 
 .btn-outline {
   background: none;
-  border: 2px solid gray;
-  font-size: 16px;
+  font-size: 22px;
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s; }
